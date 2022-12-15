@@ -1,1 +1,1 @@
-# moon-dust.github.io
+## Group website for QMag@USTC
