@@ -4,6 +4,7 @@ title: Publications
 permalink: /pub/
 ---
 
+## Full Publication ##
 {% include publications style="adjusted" %}
 
 
