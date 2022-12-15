@@ -174,7 +174,7 @@
       </li>
     {% elsif style == "adjusted" %}  
       <li>
-        {{ title_link }}. <br> <em>{{citation.Publication}}</em> {{citation.Volume}}, {{citation.Pages}} ({{citation.Year}}).<br> {{ formatted_author_list | split: ";" | array_to_sentence_string }}.  <br> 
+        {{ title_link }}. <br> <em>{{citation.Publication}}</em> {{citation.Volume}}, {{citation.Pages}} ({{citation.Year}}).<br> {{ formatted_author_list | split: ";" | array_to_sentence_string }}.
       </li>
     {% endif %}
     
@@ -184,7 +184,7 @@
         {% break %}
       {% endif %}
     {% endif %} 
-    
   {% endif %}
+  <br>
 {% endfor %}
 </ol>
