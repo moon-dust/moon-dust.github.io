@@ -30,6 +30,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - Home.md
+  - Research.md
+  - Team.md
+  - Publications.md
+  - Etc.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

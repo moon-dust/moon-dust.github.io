@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /pub/
+title: Research
+permalink: /res/
 ---
 
 We are recruiting!

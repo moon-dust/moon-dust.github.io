@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /pub/
+title: Etc.
+permalink: /etc/
 ---
 
 We are recruiting!

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /home/
+permalink: /hom/
 ---
 
 Wellcome to the Quantum Magnetism Lab at USTC!
