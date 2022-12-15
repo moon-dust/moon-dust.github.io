@@ -22,10 +22,10 @@
   {% assign authors = include.author | downcase | split: ";" %}
 {% endif %}
 
-{% assign counter = 10 %}
+{% assign counter = 1 %}
 
 
-<ol>
+<ol reversed>
 {% for citation in pub_list %}
   {% if include.venue %}
     {% assign publication = citation.Publication | downcase %}
