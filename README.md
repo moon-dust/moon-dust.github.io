@@ -1,1 +1,1 @@
-### code to generate the QMag website
+### code to generate the **QMag**@USTC website
