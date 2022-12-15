@@ -4,7 +4,7 @@ title: Publications
 permalink: /pub/
 ---
 
-{% include publications style="adjusted" %}
+{% include publications style="mla" %}
 
 
 [jekyll-organization]: https://github.com/jekyll
