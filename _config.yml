@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: QMag@USTC
+title: QMag @ USTC
 email: sgao@ustc.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   This is the QMag website. We are a research lab based at the University of
@@ -21,8 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   study the spin corrections in quantum magnets.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  moon-dust
 
 # Build settings
 markdown: kramdown
