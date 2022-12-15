@@ -22,7 +22,7 @@
   {% assign authors = include.author | downcase | split: ";" %}
 {% endif %}
 
-{% assign counter = 0 %}
+{% assign counter = 10 %}
 
 
 <ol>
