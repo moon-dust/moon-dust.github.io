@@ -4,7 +4,7 @@ title: Publications
 permalink: /pub/
 ---
 
-We are recruiting!
+{% include publications %}
 
 
 [jekyll-organization]: https://github.com/jekyll
