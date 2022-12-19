@@ -123,7 +123,7 @@
     {% if style == "mla" or style == "chicago" or style == "adjusted" %}
       {% for first_name in first_names %}
         {% if forloop.first == true %} 
-          {% assign formatted_author_list = formatted_author_list | append: last_names[forloop.index0] | append: " " | append: first_name | append: ";" %}
+          {% assign formatted_author_list = formatted_author_list | append: first_name | append: " " | append: last_names[forloop.index0] | append: ";" %}
         {% elsif forloop.first == true and forloop.last == true %}
           {% assign formatted_author_list = formatted_author_list | append: last_names[forloop.index0] | append: " " | append: first_name %}
         {% elsif forloop.last == true %}
