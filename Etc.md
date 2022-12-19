@@ -4,7 +4,5 @@ title: etc.
 permalink: /etc/
 ---
 
-We are recruiting!
+Lab under construction.
 
-
-[jekyll-organization]: https://github.com/jekyll

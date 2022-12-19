@@ -4,7 +4,6 @@ title: Research
 permalink: /res/
 ---
 
-We are recruiting!
+We utilize neutron and x-ray scattering to understand the spin correlations in quantum magnets.
 
 
-[jekyll-organization]: https://github.com/jekyll

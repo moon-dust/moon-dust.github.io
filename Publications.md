@@ -15,5 +15,3 @@ permalink: /pub/
 ## Full Publications ##
 {% include publications style="adjusted" %}
 
-
-[jekyll-organization](https://github.com/jekyll)
