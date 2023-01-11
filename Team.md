@@ -41,7 +41,7 @@ We are recruiting!
 
   .img {
   width: auto;
-  max-height:50%;
+  max-height:100%;
   }
 
   .text {
