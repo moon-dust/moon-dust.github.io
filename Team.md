@@ -27,7 +27,7 @@ We are recruiting!
 
   .flex-item {
     display: flex;
-    width: 45%;
+    width: 48%;
     height: 200px;
     margin-top: 10px;
     justify-content: left;  
@@ -40,7 +40,7 @@ We are recruiting!
   }*/
 
   .image {
-  width: 48%;
+  width: 45%;
   max-height:100%;
 /*  border-radius:8px;*/
   }
