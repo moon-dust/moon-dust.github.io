@@ -38,8 +38,8 @@ We are recruiting!
 
   .flex-item {
     display: flex;
-    width: 500px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     margin-top: 10px;
   }
 
@@ -51,6 +51,7 @@ We are recruiting!
 
   .img {
   width: 60px;
+  height:80px;
   }
 
   .text {
@@ -67,7 +68,7 @@ We are recruiting!
       <img src="/assets/images/bio_ShG.jpg">
     </div>
     <div class="text">
-      <h1>Shang Gao <br> Principal Investigator, <br> PhD, University of Geneva</h1>
+      <h1>Shang Gao <br> Principal Investigator, <br> PhD, University Geneva</h1>
     </div>
   </div>
 </div>
