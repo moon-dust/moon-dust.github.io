@@ -66,15 +66,15 @@ We are recruiting!
     </div>
   </div>
 
-  <div class="flex-item">
+<!--   <div class="flex-item">
     <div class="image">
       <img src="/assets/images/bio_ShG.jpg">
     </div>
     <div class="text">
-      <p> <b>Shang Gao</b> (Jr. Prof.) <br> <i>Principal Investigator </i> <br> <br> PhD, Univ. Geneva (2017) <br> 
+      <p> <b>Shang Gao</b> <br> <i>Postdoc </i> <br> <br> PhD, Univ. Geneva (2017) <br> 
         Email: sgao <i>'at'</i> ustc.edu.cn</p>
     </div>
-  </div>  
+  </div>   -->
 
 
 </div>
