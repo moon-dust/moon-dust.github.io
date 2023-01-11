@@ -31,6 +31,7 @@ We are recruiting!
     height: 200px;
     margin-top: 10px;
     justify-content: left;  
+    padding-right: 10px;
   }
 
 /*  .container {
@@ -42,6 +43,7 @@ We are recruiting!
   .image {
   width: 45%;
   max-height:100%;
+  border-radius: 8px;
   }
 
   .text {
