@@ -30,6 +30,7 @@ We are recruiting!
     width: 350px;
     height: 300px;
     margin-top: 10px;
+    justify-content: left;  
   }
 
 /*  .container {
@@ -39,14 +40,15 @@ We are recruiting!
   }*/
 
   .img {
-  width: 60px;
-  height:80px;
+  width: 30px;
+  height:40px;
   }
 
   .text {
   font-size: 10px;
   padding-left: 10px;
   }
+
 </style>
 
 <body>
@@ -57,7 +59,7 @@ We are recruiting!
       <img src="/assets/images/bio_ShG.jpg">
     </div>
     <div class="text">
-      <h1>Shang Gao <br> Principal Investigator, <br> PhD, University Geneva</h1>
+      <h1>Shang Gao <br> Principal Investigator, <br> PhD, University of Geneva</h1>
     </div>
   </div>
 </div>
