@@ -39,7 +39,7 @@ We are recruiting!
   justify-content: center;
   }*/
 
-  .imgage {
+  .image {
   width: auto;
   max-height:100%;
   }
@@ -59,7 +59,7 @@ We are recruiting!
       <img src="/assets/images/bio_ShG.jpg">
     </div>
     <div class="text">
-      <p>Shang Gao <br> Principal Investigator, <br> PhD, University de Geneva</p>
+      <p>Shang Gao <br> Principal Investigator, <br> PhD, University d Geneva</p>
     </div>
   </div>
 </div>
