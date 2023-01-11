@@ -20,7 +20,7 @@ We are recruiting!
     display: flex;
     flex-flow: row wrap;  
     justify-content: left;  
-    padding: 0;
+    padding: 10px;
     margin: 0;
     list-style: none;
   }
@@ -31,7 +31,6 @@ We are recruiting!
     height: 200px;
     margin-top: 10px;
     justify-content: left;  
-    padding-right: 15px;
   }
 
 /*  .container {
