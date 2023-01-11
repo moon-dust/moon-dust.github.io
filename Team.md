@@ -45,7 +45,7 @@ We are recruiting!
   }
 
   .text {
-  font-size: 10px;
+  font-size: 16px;
   padding-left: 10px;
   max-width:50%;
   }
@@ -60,7 +60,7 @@ We are recruiting!
       <img src="/assets/images/bio_ShG.jpg">
     </div>
     <div class="text">
-      <p>Shang Gao <br> Principal Investigator, <br> PhD, University de Geneva</p>
+      <p>Shang Gao <br> Principal Investigator, <br> PhD, University d Geneva</p>
     </div>
   </div>
 </div>
