@@ -59,7 +59,7 @@ We are recruiting!
       <img src="/assets/images/bio_ShG.jpg">
     </div>
     <div class="text">
-      <h1>Shang Gao <br> Principal Investigator, <br> PhD, University of Geneva</h1>
+      <p>Shang Gao <br> Principal Investigator, <br> PhD, University de Geneva</p>
     </div>
   </div>
 </div>
