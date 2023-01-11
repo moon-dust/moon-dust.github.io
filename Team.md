@@ -60,7 +60,8 @@ We are recruiting!
       <img src="/assets/images/bio_ShG.jpg">
     </div>
     <div class="text">
-      <p> Shang Gao (Jr. Prof.) <br> <i>Principal Investigator </i> <br> <br> PhD, Univ. Geneva (2017) <br> </p>
+      <p> <b>Shang Gao</b> (Jr. Prof.) <br> <i>Principal Investigator </i> <br> <br> PhD, Univ. Geneva (2017) <br> 
+        Email: sgao <i>'at'</i> ustc.edu.cn</p>
     </div>
   </div>
 </div>
