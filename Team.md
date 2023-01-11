@@ -23,7 +23,6 @@ We are recruiting!
 
   .img {
   width: 200px;
-  max-height:auto;
   }
 
   .text {
@@ -38,7 +37,7 @@ We are recruiting!
     <img src="/assets/images/bio_ShG.jpg">
   </div>
   <div class="text">
-    <h1>Shang Gao</h1>
+    <h1>Shang Gao <br> Principal Investigator <br> PhD, Univ. Geneva</h1>
   </div>
 </div>
 </body>
