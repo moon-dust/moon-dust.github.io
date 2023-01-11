@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to the Quantum Magnetism Laboratory at USTC!
+## Welcome to the Quantum Magnetism Laboratory at USTC! ##
