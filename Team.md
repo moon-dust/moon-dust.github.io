@@ -20,7 +20,7 @@ We are recruiting!
     display: flex;
     flex-flow: row wrap;  
     justify-content: left;  
-    padding: 20px;
+    padding-right: 10px;
     margin: 0;
     list-style: none;
   }
