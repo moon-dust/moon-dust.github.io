@@ -27,8 +27,8 @@ We are recruiting!
 
   .flex-item {
     display: flex;
-    width: 10%;
-    height: 300px;
+    width: 100%;
+    height: 200px;
     margin-top: 10px;
     justify-content: left;  
   }
@@ -47,7 +47,7 @@ We are recruiting!
   .text {
   font-size: 16px;
   padding-left: 10px;
-  max-width:50%;
+  max-width:100%;
   }
 
 </style>
