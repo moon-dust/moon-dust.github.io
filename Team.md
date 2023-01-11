@@ -27,7 +27,7 @@ We are recruiting!
 
   .flex-item {
     display: flex;
-    width: 40%;
+    width: 10%;
     height: auto;
     margin-top: 10px;
     justify-content: left;  
@@ -41,13 +41,13 @@ We are recruiting!
 
   .image {
   width: auto;
-  max-height:10%;
+/*  max-height:%;*/
   }
 
   .text {
   font-size: 16px;
   padding-left: 10px;
-  max-width:50%;
+/*  max-width:50%;*/
   }
 
 </style>
@@ -57,10 +57,10 @@ We are recruiting!
 <div class="flex-container">
   <div class="flex-item">
     <div class="image">
-      <img width="150" height="200" src="/assets/images/bio_ShG.jpg">
+      <img src="/assets/images/bio_ShG.jpg">
     </div>
     <div class="text">
-      <p>Shang Gao <br> Principal Investigator, <br> PhD, University dd Geneva</p>
+      <p>Shang Gao <br> Principal Investigator, <br> PhD, University dede Geneva</p>
     </div>
   </div>
 </div>
