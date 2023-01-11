@@ -39,7 +39,7 @@ We are recruiting!
   justify-content: center;
   }*/
 
-  .img {
+  .imgage {
   width: auto;
   max-height:100%;
   }
