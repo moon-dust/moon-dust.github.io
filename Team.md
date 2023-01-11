@@ -17,20 +17,9 @@ We are recruiting!
 <style>
 
   .flex-container {
-    /* We first create a flex layout context */
     display: flex;
-    
-    /* Then we define the flow direction 
-       and if we allow the items to wrap 
-     * Remember this is the same as:
-     * flex-direction: row;
-     * flex-wrap: wrap;
-     */
-    flex-flow: row wrap;
-    
-    /* Then we define how is distributed the remaining space */
-    justify-content: space-around;
-    
+    flex-flow: row wrap;  
+    justify-content: left;  
     padding: 0;
     margin: 0;
     list-style: none;
@@ -38,7 +27,7 @@ We are recruiting!
 
   .flex-item {
     display: flex;
-    width: 300px;
+    width: 350px;
     height: 300px;
     margin-top: 10px;
   }
