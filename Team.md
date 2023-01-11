@@ -22,7 +22,7 @@ We are recruiting!
   }
 
   .img {
-  max-width: 20%;
+  width: 200px;
   max-height:auto;
   }
 
