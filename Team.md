@@ -45,7 +45,7 @@ We are recruiting!
   }
 
   .text {
-  font-size: 14px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding-left: 10px;
   max-width:100%;
   }
@@ -60,7 +60,7 @@ We are recruiting!
       <img src="/assets/images/bio_ShG.jpg">
     </div>
     <div class="text">
-      <p> Shang Gao <br> <i>Principal Investigator </i> <br> <br> PhD, Univ. Geneva <br> </p>
+      <p> Shang Gao (Junior Prof.) <br> <i>Principal Investigator </i> <br> <br> PhD, Univ. Geneva <br> </p>
     </div>
   </div>
 </div>
