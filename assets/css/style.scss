@@ -6,4 +6,8 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+// Width of the content area
+$content-width:    100%;
+
+
   
