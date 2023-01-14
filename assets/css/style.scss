@@ -3,8 +3,7 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+  "minima";
 
 // Width of the content area
 $content-width:    100%;
