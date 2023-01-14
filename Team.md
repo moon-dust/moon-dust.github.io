@@ -27,8 +27,8 @@ We are recruiting!
 
   .flex-item {
     display: flex;
-    width: 48%;
-    height: 200px;
+    width: 200px;
+    height: auto;
     margin-top: 10px;
     justify-content: left;  
   }
