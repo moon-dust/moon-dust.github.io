@@ -46,8 +46,8 @@ We are recruiting!
   }
 
   .text {
-  font: 14px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding-left: 10px;
+  font: 16px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-left: 15px;
   max-width:100%;
   }
 
