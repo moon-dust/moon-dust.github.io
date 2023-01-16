@@ -13,7 +13,7 @@ We utilize neutron and x-ray scattering to understand the spin correlations in q
 ## Funding Sources ##
 
 <!-- markdown image with alignment -->
-<img align="left" width="800" src="/assets/images/grants.png">
+<img align="left" width="650" src="/assets/images/grants.png">
 
 
 
