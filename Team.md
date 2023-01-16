@@ -49,7 +49,7 @@ We are recruiting!
   font: 16px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding-left: 15px;
   max-width:100%;
-  line-height:30px;
+  line-height:25px;
   }
 
 </style>
