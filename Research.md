@@ -12,8 +12,8 @@ We utilize neutron and x-ray scattering to understand the spin correlations in q
 
 ## Funding Sources ##
 
-National Natural Science Foundation of China
+<!-- markdown image with alignment -->
+<img align="left" width="800" src="/assets/images/grants.png">
 
-USTC start-up grant
 
 
