@@ -67,20 +67,19 @@ We are recruiting!
     </div>
   </div>
 
-<!--   <div class="flex-item">
+  <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_ShG.jpg">
+      <img src="/assets/images/bio_JJMo.jpg">
     </div>
     <div class="text">
-      <p> <b>Shang Gao</b> <br> <i>Postdoc </i> <br> <br> PhD, Univ. Geneva (2017) <br> 
-        Email: sgao <i>'at'</i> ustc.edu.cn</p>
+      <p> <b>JiaJun Mo</b> <br> <i> Bachelor (4th year) </i> <br> <br>
+        Email: mojj <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
-  </div>   -->
+  </div>  
 
 
 </div>
 </body>
-
 
 
 
