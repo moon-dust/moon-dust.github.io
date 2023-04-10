@@ -72,7 +72,7 @@ We are recruiting!
       <img src="/assets/images/bio_JJMo.jpg">
     </div>
     <div class="text">
-      <p> <b>JiaJun Mo</b> <br> <i> Bachelor (4th year) </i> <br> <br>
+      <p> <b>Jiajun Mo</b> <br> <i> Bachelor (4th year) </i> <br> <br>
         Email: mojj <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>  
