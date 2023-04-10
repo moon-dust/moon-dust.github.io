@@ -40,7 +40,7 @@ We are recruiting!
   }*/
 
   .image {
-  width: 45%;
+  width: 35%;
   max-height:100%;
 /*  border-radius:8px;*/
   }
