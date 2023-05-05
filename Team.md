@@ -94,7 +94,7 @@ We are recruiting!
     </div>
     <div class="text">
       <p> <b>Shanta Batool Hussain</b> <br> <i> PhD (2nd yr, co-supervising) </i> <br> <br>
-        Email: skguang <i>'at'</i> mail.ustc.edu.cn</p>
+        Email: shantahussain745 <i>'at'</i> yahoo.com</p>
     </div>
   </div>
 
