@@ -83,7 +83,17 @@ We are recruiting!
       <img src="/assets/images/bio_SKG.jpeg">
     </div>
     <div class="text">
-      <p> <b>ShuangKui Guang</b> <br> <i> PhD (4th yr, co-supervised) </i> <br> <br>
+      <p> <b>ShuangKui Guang</b> <br> <i> PhD (4th yr, co-supervising) </i> <br> <br>
+        Email: skguang <i>'at'</i> mail.ustc.edu.cn</p>
+    </div>
+  </div>
+
+  <div class="flex-item">
+    <div class="image">
+      <img src="/assets/images/bio_Shanta.jpeg">
+    </div>
+    <div class="text">
+      <p> <b>Shanta Batool Hussain</b> <br> <i> PhD (2nd yr, co-supervising) </i> <br> <br>
         Email: skguang <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
