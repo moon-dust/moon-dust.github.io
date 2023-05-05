@@ -72,10 +72,21 @@ We are recruiting!
       <img src="/assets/images/bio_JJMo.jpg">
     </div>
     <div class="text">
-      <p> <b>Jiajun Mo</b> <br> <i> Bachelor (4th year) </i> <br> <br>
+      <p> <b>Jiajun Mo</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
         Email: mojj <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>  
+
+  <div class="flex-item">
+    <div class="image">
+      <img src="/assets/images/bio_SKG.jpg">
+    </div>
+    <div class="text">
+      <p> <b>ShuangKui Guang</b> <br> <i> PhD (4th yr, co-supervised) </i> <br> <br>
+        Email: skguang <i>'at'</i> mail.ustc.edu.cn</p>
+    </div>
+  </div>
+
 
 
 </div>
