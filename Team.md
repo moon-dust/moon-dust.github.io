@@ -79,7 +79,7 @@ We are recruiting!
 
   <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_SKG.jpg">
+      <img src="/assets/images/bio_SKG.jpeg">
     </div>
     <div class="text">
       <p> <b>ShuangKui Guang</b> <br> <i> PhD (4th yr, co-supervised) </i> <br> <br>
