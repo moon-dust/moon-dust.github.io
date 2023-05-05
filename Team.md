@@ -29,7 +29,8 @@ We are recruiting!
     display: flex;
     width: 500px;
     height: auto;
-    margin-top: 30px;
+    margin-top: 10px;
+    margin-bottom: 40px;
     justify-content: left;  
   }
 
