@@ -3,15 +3,8 @@
   captions: true
   images:
     - src: /assets/images/banner_230806.jpg
-      # alt: Minimum required attributes
-    - src: /assets/images/banner_230806.jpg
-      # alt: Use data-src for on-demand loading
-    - src: /assets/images/banner_230806.jpg
-      # data-src-2x: /assets/images/banner_230806.jpg
-      # alt: Use data-src-2x for HiDPI devices
-    - src:  /assets/images/banner_230806.jpg
-      # alt: Links work too
-      # href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+      alt: Spinon continuum excitations in Sr2V3O9 (arXiv:2307.12093)
+      href: https://arxiv.org/abs/2307.12093
   settings:
     height: "'auto'"
     initialHeight:
