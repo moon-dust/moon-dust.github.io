@@ -8,5 +8,5 @@ layout: home
 ## Welcome to the Quantum Magnetism Laboratory at USTC! ##
 
 
-<!-- {% include slider.html selector="slider1" %} -->
+{% include slider.html selector="slider1" %}
 
