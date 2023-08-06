@@ -5,6 +5,9 @@
     - src: /assets/images/banner_230806.jpg
       alt: Spinon continuum excitations in Sr2V3O9 (arXiv:2307.12093)
       href: https://arxiv.org/abs/2307.12093
+    - src: /assets/images/banner_230806.jpg
+      alt: Spinon continuum excitations in Sr2V3O9 (arXiv:2307.12093)
+      href: https://arxiv.org/abs/2307.12093
   settings:
     height: "'auto'"
     initialHeight:
