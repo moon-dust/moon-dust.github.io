@@ -11,7 +11,7 @@ Here we introduce [JuliaSCGA](https://github.com/moon-dust/JuliaSCGA.jl), a [Jul
 For single crystal calculations, the use of JuliaSCGA is straightforward as explained in the [how-to page](https://github.com/moon-dust/JuliaSCGA.jl). For powder calculations, a random array of wavevectors with different lengths are firstly generated, then the calculated intensities at wavevectors of the same length are averaged for the final plot. Using the [example diamond lattice code](https://github.com/moon-dust/JuliaSCGA.jl/blob/main/examples/diamond_powder.jl), a powder diffuse pattern as follows can be generated:
 
 <p align="center">
-<img src="/assets/images/diamond_powder.png" width="600"/>
+<img src="/assets/images/diamond_powder.png" width="500"/>
 </p>
 
 <!-- ![](/assets/images/diamond_powder.png) -->
