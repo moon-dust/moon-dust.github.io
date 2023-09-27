@@ -83,7 +83,7 @@ We are recruiting!
       <img src="/assets/images/bio_Otkur.jpeg">
     </div>
     <div class="text">
-      <p> <b>Omar Otkur</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
+      <p> <b>Omar Otkur</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
         Email: otdi <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
@@ -93,7 +93,7 @@ We are recruiting!
       <img src="/assets/images/bio_HWang.jpeg">
     </div>
     <div class="text">
-      <p> <b>Han Wang</b> <br> <i> Bachelor (2nd yr) </i> <br> <br>
+      <p> <b>Han Wang</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
         Email: wanghanyi <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
@@ -104,7 +104,7 @@ We are recruiting!
       <img src="/assets/images/bio_SKG.jpeg">
     </div>
     <div class="text">
-      <p> <b>ShuangKui Guang</b> <br> <i> PhD (4th yr, co-supervising) </i> <br> <br>
+      <p> <b>ShuangKui Guang</b> <br> <i> PhD (5th yr, co-supervising) </i> <br> <br>
         Email: skguang <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
