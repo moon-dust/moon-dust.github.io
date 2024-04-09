@@ -73,7 +73,7 @@ We are recruiting!
       <img src="/assets/images/bio_JJMo.jpg">
     </div>
     <div class="text">
-      <p> <b>Jiajun Mo</b> <br> <i> Master (1st yr) </i> <br> <br>
+      <p> <b>JiaJun Mo</b> <br> <i> Master (1st yr) </i> <br> <br>
         Email: mojj <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>  
@@ -90,11 +90,31 @@ We are recruiting!
 
   <div class="flex-item">
     <div class="image">
+      <img src="/assets/images/bio_ZMJiang.jpeg">
+    </div>
+    <div class="text">
+      <p> <b>ZhenMeng Jiang</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
+        Email: zhenmeng <i>'at'</i> hnu.edu.cn</p>
+    </div>
+  </div>
+
+  <div class="flex-item">
+    <div class="image">
       <img src="/assets/images/bio_HWang.jpeg">
     </div>
     <div class="text">
       <p> <b>Han Wang</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
         Email: wanghanyi <i>'at'</i> mail.ustc.edu.cn</p>
+    </div>
+  </div>
+
+  <div class="flex-item">
+    <div class="image">
+      <img src="/assets/images/bio_ZLLin.jpeg">
+    </div>
+    <div class="text">
+      <p> <b>ZeLin Li</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
+        Email: lzl554874848 <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
 
