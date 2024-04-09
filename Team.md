@@ -90,7 +90,7 @@ We are recruiting!
 
   <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_ZMJiang.jpeg">
+      <img src="/assets/images/bio_ZMJiang.jpg">
     </div>
     <div class="text">
       <p> <b>ZhenMeng Jiang</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
@@ -110,7 +110,7 @@ We are recruiting!
 
   <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_ZLLin.jpeg">
+      <img src="/assets/images/bio_ZLLin.jpg">
     </div>
     <div class="text">
       <p> <b>ZeLin Li</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
