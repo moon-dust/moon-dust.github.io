@@ -110,7 +110,7 @@ We are recruiting!
 
   <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_ZLLin.jpg">
+      <img src="/assets/images/bio_ZLLi.jpg">
     </div>
     <div class="text">
       <p> <b>ZeLin Li</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
