@@ -9,8 +9,8 @@
       alt: Introducing JuliaSCGA (nematic bond theory on a square lattice)
       href: https://moon-dust.github.io/simulations/2023/08/15/introducing_juliascga.html
     - src: /assets/images/banner_240409.jpg
-      alt: Lattice-induced Molecular dynamics
-      href: https://arxiv.org/abs/2404.05523
+      alt: molecular-like dynamics
+      href: https://moon-dust.github.io/research/2024/05/29/molecular_excitations.html
   settings:
     height: "'auto'"
     initialHeight:
