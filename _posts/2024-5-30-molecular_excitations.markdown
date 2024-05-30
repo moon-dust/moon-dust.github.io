@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Molecular or not?"
-date:   2023-8-15 12:00:00 +0800
+date:   2024-5-30 12:00:00 +0800
 categories: research
 ---
 Frustrated magnets often exhibit exotic spin correlations that defy conventional descriptions. A prominent example is the emergent molecular-like excitations discovered in a broad family of frustrated pyrochlore-lattice compounds. In these materials, despite the existence of a magnetic long-range order, spin dynamics is dominated by resonant-like excitations rather than dispersive spin wave excitations, and the structural factors of the resonant modes resemble those of free molecules (see e.g. [Nature 2002](https://www.nature.com/articles/nature00964), [PRL 2013](http://link.aps.org/doi/10.1103/PhysRevLett.110.077205), [PRL 2014](http://link.aps.org/doi/10.1103/PhysRevLett.113.236402), and [PRL 2021](https://link.aps.org/doi/10.1103/PhysRevLett.127.147205)). Although recent studies of the short-range spin correlations in [MgCr<sub>2</sub>O<sub>4</sub>](https://link.aps.org/doi/10.1103/PhysRevLett.122.097201) casts doubt on the molecular picture, the proposed Heisenberg spin model only works in the paramagnetic regime and fails to explain the exotic excitations in the ordered regime. Therefore, in spite of two decades' intensive research, the origin of the molecular-like excitations in frustrated pyrochlores still remains an open question. 
