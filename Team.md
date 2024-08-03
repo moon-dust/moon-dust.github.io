@@ -103,7 +103,7 @@ We are recruiting!
       <img src="/assets/images/bio_HWang.jpeg">
     </div>
     <div class="text">
-      <p> <b>Han Wang</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
+      <p> <b>Han Wang</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
         Email: wanghanyi <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
@@ -113,13 +113,33 @@ We are recruiting!
       <img src="/assets/images/bio_ZLLi.jpg">
     </div>
     <div class="text">
-      <p> <b>ZeLin Li</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
+      <p> <b>ZeLin Li</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
         Email: lzl554874848 <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
 
+  <div class="flex-item">
+    <div class="image">
+      <img src="/assets/images/bio_YXiao.jpg">
+    </div>
+    <div class="text">
+      <p> <b>Yuan Xiao</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
+        Email: ustcxiaoyuan <i>'at'</i> mail.ustc.edu.cn</p>
+    </div>
+  </div>  
 
   <div class="flex-item">
+    <div class="image">
+      <img src="/assets/images/bio_KYJiang.jpg">
+    </div>
+    <div class="text">
+      <p> <b>KaiYu Jiang</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
+        Email: jky2021 <i>'at'</i> mail.ustc.edu.cn</p>
+    </div>
+  </div>  
+
+
+<!--   <div class="flex-item">
     <div class="image">
       <img src="/assets/images/bio_SKG.jpeg">
     </div>
@@ -127,7 +147,7 @@ We are recruiting!
       <p> <b>ShuangKui Guang</b> <br> <i> PhD (5th yr, co-supervising) </i> <br> <br>
         Email: skguang <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
-  </div>
+  </div> -->
 
   <div class="flex-item">
     <div class="image">
@@ -139,10 +159,9 @@ We are recruiting!
     </div>
   </div>
 
-
-
 </div>
 </body>
+
 
 
 
