@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Zoo of chiral phases revealed via microscopic modeling
-date:   2024-6-6 19:06:24 +0800
+title:  "Zoo of chiral phases revealed via microscopic modeling"
+date:   2026-6-6 19:06:24 +0800
 categories: research
 ---
 What stabilizes exotic topological spin textures in frustrated intermetallics? In Gd<sub>3</sub>Ru<sub>4</sub>Al<sub>12</sub>, a prototypical skyrmion host, we have recently cracked the puzzle by combining neutron scattering experiments with an unprecedented multi-target theoretical fit. Details of the analysis are presented in [arXiv2512.24071](https://arxiv.org/abs/2512.24071).
