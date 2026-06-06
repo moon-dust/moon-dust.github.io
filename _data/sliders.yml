@@ -2,6 +2,9 @@
   bullets: true
   captions: true
   images:
+    - src: /assets/images/banner_260606_2.png
+      alt: Multiflavor spinel shows an emergent vortex lattice
+      href: https://moon-dust.github.io/research/2026/06/06/multiflavor_vortex.html
     - src: /assets/images/banner_260606_1.png
       alt: Zoo of chiral phases revealed via miscroscopic modeling
       href: https://moon-dust.github.io/research/2026/06/06/zoo_chiral.html
