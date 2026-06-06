@@ -4,6 +4,8 @@ title: Research
 permalink: /res/
 ---
 
+<img src="/assets/images/page_top1.jpg" alt="Research page header image" style="width: 100%; margin-bottom: 1.5rem;">
+
 ## Research Topics ##
 
 
