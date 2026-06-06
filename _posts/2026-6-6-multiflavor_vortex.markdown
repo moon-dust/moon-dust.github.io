@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Emergent vortex order in a multiflavor spinel compound"
+title:  "Emergent vortex order in a multiflavor spinel compound"
 date:   2026-6-6 20:52:14 +0800
 categories: research
 ---

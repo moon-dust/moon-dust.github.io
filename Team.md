@@ -73,7 +73,7 @@ We are recruiting!
       <img src="/assets/images/bio_JJMo.jpg">
     </div>
     <div class="text">
-      <p> <b>JiaJun Mo</b> <br> <i> Master (2nd yr) </i> <br> <br>
+      <p> <b>JiaJun Mo</b> <br> <i> PhD (1st yr) </i> <br> <br>
         Email: mojj <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>  
@@ -83,7 +83,7 @@ We are recruiting!
       <img src="/assets/images/bio_Otkur.jpeg">
     </div>
     <div class="text">
-      <p> <b>Omar Otkur</b> <br> <i> Master (1st yr) </i> <br> <br>
+      <p> <b>Omar Otkur</b> <br> <i> PhD (1st yr) </i> <br> <br>
         Email: otdi <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
@@ -93,12 +93,12 @@ We are recruiting!
       <img src="/assets/images/bio_ZMJiang.jpg">
     </div>
     <div class="text">
-      <p> <b>ZhenMeng Jiang</b> <br> <i> Master (1st yr) </i> <br> <br>
+      <p> <b>ZhenMeng Jiang</b> <br> <i> Master (2nd yr) </i> <br> <br>
         Email: zhenmeng <i>'at'</i> hnu.edu.cn</p>
     </div>
   </div>
 
-  <div class="flex-item">
+  <!-- <div class="flex-item">
     <div class="image">
       <img src="/assets/images/bio_HWang.jpeg">
     </div>
@@ -106,7 +106,27 @@ We are recruiting!
       <p> <b>Han Wang</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
         Email: wanghanyi <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
-  </div>
+  </div> -->
+
+  <div class="flex-item">
+    <div class="image">
+      <img src="/assets/images/bio_YXiao.jpg">
+    </div>
+    <div class="text">
+      <p> <b>Yuan Xiao</b> <br> <i> Master (1st yr) </i> <br> <br>
+        Email: ustcxiaoyuan <i>'at'</i> mail.ustc.edu.cn</p>
+    </div>
+  </div>  
+
+  <div class="flex-item">
+    <div class="image">
+      <img src="/assets/images/bio_KYJiang.jpg">
+    </div>
+    <div class="text">
+      <p> <b>KaiYu Jiang</b> <br> <i> Master (1st yr) </i> <br> <br>
+        Email: jky2021 <i>'at'</i> mail.ustc.edu.cn</p>
+    </div>
+  </div>  
 
   <div class="flex-item">
     <div class="image">
@@ -120,24 +140,13 @@ We are recruiting!
 
   <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_YXiao.jpg">
+      <img src="/assets/images/bio_HYLeng.jpg">
     </div>
     <div class="text">
-      <p> <b>Yuan Xiao</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
-        Email: ustcxiaoyuan <i>'at'</i> mail.ustc.edu.cn</p>
+      <p> <b>ZeLin Li</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
+        Email: lenghaoyang <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
-  </div>  
-
-  <div class="flex-item">
-    <div class="image">
-      <img src="/assets/images/bio_KYJiang.jpg">
-    </div>
-    <div class="text">
-      <p> <b>KaiYu Jiang</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
-        Email: jky2021 <i>'at'</i> mail.ustc.edu.cn</p>
-    </div>
-  </div>  
-
+  </div>
 
 <!--   <div class="flex-item">
     <div class="image">
@@ -149,7 +158,7 @@ We are recruiting!
     </div>
   </div> -->
 
-  <div class="flex-item">
+  <!-- <div class="flex-item">
     <div class="image">
       <img src="/assets/images/bio_Shanta.jpeg">
     </div>
@@ -157,10 +166,16 @@ We are recruiting!
       <p> <b>Shanta Batool Hussain</b> <br> <i> PhD (2nd yr, co-supervising) </i> <br> <br>
         Email: shantahussain745 <i>'at'</i> yahoo.com</p>
     </div>
-  </div>
+  </div> -->
 
 </div>
+## Alumni ##
+
+- **Shanta Batool Hussain**, PhD, 2023 - 2026
+- **Han Wang**, Bachelor, 2023 - 2025
+
 </body>
+
 
 
 
