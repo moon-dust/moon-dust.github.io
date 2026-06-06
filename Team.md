@@ -140,7 +140,7 @@ We are recruiting!
 
   <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_HYLeng.jpg">
+      <img src="/assets/images/bio_HYLeng.png">
     </div>
     <div class="text">
       <p> <b>ZeLin Li</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
@@ -169,10 +169,13 @@ We are recruiting!
   </div> -->
 
 </div>
-## Alumni ##
 
-- **Shanta Batool Hussain**, PhD, 2023 - 2026
-- **Han Wang**, Bachelor, 2023 - 2025
+<h2>Alumni</h2>
+
+<ul>
+  <li><b>Shanta Batool Hussain</b>, PhD, 2023 - 2026</li>
+  <li><b>Han Wang</b>, Bachelor, 2023 - 2025</li>
+</ul>
 
 </body>
 
