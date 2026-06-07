@@ -140,7 +140,7 @@ We are recruiting!
 
   <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_YFJiang.png">
+      <img src="/assets/images/bio_YFJiang.jpg">
     </div>
     <div class="text">
       <p> <b>Yifan Jiang</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
