@@ -3,6 +3,33 @@ layout: page
 title: Publications
 permalink: /pub/
 citations_selected:
+  - Authors: Mo, Jiajun; Omar, Otkur; Guang, Shuangkui; Iida, Kazuki; Kamazawa, Kazuya; Orlandi, Fabio; Yang, Wenyun; Ma, Xiaobai; Zheng, Xiquan; Peng, Yingying; Xiao, Yuan; Zhang, Shunhong; Zaharko, Oksana; Sun, Xuefeng; Gao, Shang;
+    Title: 'Emergent Vortex Ordering in a Multiflavor Pyrochlore-Lattice Compound GeCo<sub>2</sub>O<sub>4</sub>'
+    Publication: 'arXiv preprint arXiv:2605.12042'
+    Volume: ''
+    Number: ''
+    Pages: ''
+    Year: '2026'
+    Publisher: 
+    URL: https://arxiv.org/abs/2605.12042
+  - Authors: Mo, Jiajun; Chinellato, Leandro M; Williams, Fletcher; Kikkawa, Akiko; Paddison, Joseph AM; Frontzek, Matthias D; Sala, Gabriele; Pasco, Chris; Barros, Kipton; Nakajima, Taro; Arima, Taka-hisa; Taguchi, Yasujiro; Tokura, Yoshinori; Stone, Matthew B; Christianson, Andrew D; Batista, Cristian D; Gao, Shang;
+    Title: 'Skyrmion and Meron Crystals in Intermetallic Gd<sub>3</sub>Ru<sub>4</sub>Al<sub>12</sub>: Microscopic Model Insights into Chiral Phases'
+    Publication: 'arXiv preprint arXiv:2512.24071'
+    Volume: ''
+    Number: ''
+    Pages: ''
+    Year: '2025'
+    Publisher: 
+    URL: https://arxiv.org/abs/2512.24071
+  - Authors: Gao, Shang; 
+    Title: 'Dynamic spin-lattice coupling and statistical interpretation for the molecularlike excitations in frustrated pyrochlores'
+    Publication: 'Phy. Rev. B'
+    Volume: '110'
+    Number: '21'
+    Pages: '214420'
+    Year: '2024'
+    Publisher: American Physical Society
+    URL: https://link.aps.org/doi/10.1103/PhysRevB.110.214420
   - Authors: Gao, Shang; Pokharel, Ganesh; May, Andrew F; Paddison, Joseph AM; Pasco, Chris; Liu, Yaohua; Taddei, Keith M; Calder, Stuart; Mandrus, David G; Stone, Matthew B; Christianson, Andrew D;
     Title: Line-Graph Approach to Spiral Spin Liquids
     Publication: Phys. Rev. Lett.
@@ -67,7 +94,7 @@ citations:
     Year: '2026'
     Publisher: American Physical Society
     URL:
-  - Authors: Mo, Jiajun; Omar, Otkur; Guang, Shuangkui; Iida, Kazuki; Kamazawa, Kazuya; Orlandi, Fabio; Yang, Wenyun; Ma, Xiaobai; Zheng, Xiquan; Peng, Yingying; 
+  - Authors: Mo, Jiajun; Omar, Otkur; Guang, Shuangkui; Iida, Kazuki; Kamazawa, Kazuya; Orlandi, Fabio; Yang, Wenyun; Ma, Xiaobai; Zheng, Xiquan; Peng, Yingying; Xiao, Yuan; Zhang, Shunhong; Zaharko, Oksana; Sun, Xuefeng; Gao, Shang;
     Title: 'Emergent Vortex Ordering in a Multiflavor Pyrochlore-Lattice Compound GeCo<sub>2</sub>O<sub>4</sub>'
     Publication: 'arXiv preprint arXiv:2605.12042'
     Volume: ''
@@ -76,7 +103,7 @@ citations:
     Year: '2026'
     Publisher: 
     URL:
-  - Authors: Karube, Kosuke; Gao, Shang; Khanh, Nguyen Duy; Kikkawa, Akiko; Nakao, Hironori; Sagayama, Hajime; Hirschberger, Max; Nakajima, Taro; Arima, Taka-hisa; Mochizuki, Masahito; 
+  - Authors: Karube, Kosuke; Gao, Shang; Khanh, Nguyen Duy; Kikkawa, Akiko; Nakao, Hironori; Sagayama, Hajime; Hirschberger, Max; Nakajima, Taro; Arima, Taka-hisa; Mochizuki, Masahito; Tokura, Yoshinori; Taguchi, Yasujiro;
     Title: 'Field-induced evolution of the ferrimagnetic ground state and possible thermally induced spin chirality in Tb<sub>3</sub>Ru<sub>4</sub>Al<sub>12</sub>'
     Publication: 'Physical Review B'
     Volume: '113'
@@ -85,7 +112,7 @@ citations:
     Year: '2026'
     Publisher: APS
     URL:
-  - Authors: Omar, Otkur; Zhang, Yang; Zhang, Qiang; Tian, Wei; Dagotto, Elbio; Chen, Gang; Arima, Taka-hisa; Stone, Matthew B; Christianson, Andrew D; Hirai, Daigorou; 
+  - Authors: Omar, Otkur; Zhang, Yang; Zhang, Qiang; Tian, Wei; Dagotto, Elbio; Chen, Gang; Arima, Taka-hisa; Stone, Matthew B; Christianson, Andrew D; Hirai, Daigorou; Gao, Shang;
     Title: 'Dipolar and quadrupolar correlations in the 5d<sup>2</sup> Re-based double perovskites Ba<sub>2</sub>YReO<sub>6</sub> and Ba<sub>2</sub>ScReO<sub>6</sub>'
     Publication: 'Physical Review B'
     Volume: '112'
@@ -94,7 +121,7 @@ citations:
     Year: '2025'
     Publisher: American Physical Society
     URL:
-  - Authors: Liu, Ruixian; Stone, Matthew B; Gao, Shang; Nakamura, Mitsutaka; Kamazawa, Kazuya; Krajewska, Aleksandra; Walker, Helen C; Cheng, Peng; Yu, Rong; Si, Qimiao; 
+  - Authors: Liu, Ruixian; Stone, Matthew B; Gao, Shang; Nakamura, Mitsutaka; Kamazawa, Kazuya; Krajewska, Aleksandra; Walker, Helen C; Cheng, Peng; Yu, Rong; Si, Qimiao; Dai, Pengcheng; Lu, Xingye;
     Title: 'Spin correlations in the nematic quantum disordered state of FeSe'
     Publication: 'Nature Communications'
     Volume: '16'
@@ -103,7 +130,7 @@ citations:
     Year: '2025'
     Publisher: Nature Publishing Group UK London
     URL:
-  - Authors: Mo, Jiajun; Chinellato, Leandro M; Williams, Fletcher; Kikkawa, Akiko; Paddison, Joseph AM; Frontzek, Matthias D; Sala, Gabriele; Pasco, Chris; Barros, Kipton; Nakajima, Taro; 
+  - Authors: Mo, Jiajun; Chinellato, Leandro M; Williams, Fletcher; Kikkawa, Akiko; Paddison, Joseph AM; Frontzek, Matthias D; Sala, Gabriele; Pasco, Chris; Barros, Kipton; Nakajima, Taro; Arima, Taka-hisa; Taguchi, Yasujiro; Tokura, Yoshinori; Stone, Matthew B; Christianson, Andrew D; Batista, Cristian D; Gao, Shang;
     Title: 'Skyrmion and Meron Crystals in Intermetallic Gd<sub>3</sub>Ru<sub>4</sub>Al<sub>12</sub>: Microscopic Model Insights into Chiral Phases'
     Publication: 'arXiv preprint arXiv:2512.24071'
     Volume: ''
@@ -112,7 +139,7 @@ citations:
     Year: '2025'
     Publisher: 
     URL:
-  - Authors: Yamada, Rinsuke; Birch, Max T; Baral, Priya R; Okumura, Shun; Nakano, Ryota; Gao, Shang; Ezawa, Motohiko; Nomoto, Takuya; Masell, Jan; Ishihara, Yuki; 
+  - Authors: Yamada, Rinsuke; Birch, Max T; Baral, Priya R; Okumura, Shun; Nakano, Ryota; Gao, Shang; Ezawa, Motohiko; Nomoto, Takuya; Masell, Jan; Ishihara, Yuki; Kolincio, Kamil K; Belopolski, Ilya; Sagayama, Hajime; Nakao, Hironori; Ohishi, Kazuki; Ohhara, Takashi; Kiyanagi, Ryoji; Nakajima, Taro; Tokura, Yoshinori; Arima, Taka-hisa; Motome, Yukitoshi; Hirschmann, Moritz M; Hirschberger, Max;
     Title: 'A metallic p-wave magnet with commensurate spin helix'
     Publication: 'Nature'
     Volume: '646'
@@ -121,7 +148,7 @@ citations:
     Year: '2025'
     Publisher: Nature Publishing Group UK London
     URL:
-  - Authors: Arachchige, H Suriya; DeBeer-Schmitt, Lisa M; Kish, Lazar L; Rai, Binod K; May, Andrew F; Parker, DS; Pokharel, G; Tian, Wei; Stone, Matthew B; Frontzek, Matthias; 
+  - Authors: Arachchige, H Suriya; DeBeer-Schmitt, Lisa M; Kish, Lazar L; Rai, Binod K; May, Andrew F; Parker, David S; Pokharel, Ganesh; Tian, Wei; Stone, Matthew B; Frontzek, Matthias; Mandrus, David G; Bleuel, Markus; Islam, Zahirul; Fabbris, Gilberto; Li, Huibo; Gao, Shang; Miao, Hu; Thomas, Samuel M; Rosa, Priscila F S; Thompson, Joe D; Lin, Shi-Zeng; Christianson, Andrew D;
     Title: 'Nanometric modulations of the magnetic structure of the element Nd'
     Publication: 'Materials Today Quantum'
     Volume: '4'
@@ -130,7 +157,7 @@ citations:
     Year: '2024'
     Publisher: Elsevier
     URL:
-  - Authors: Paddison, Joseph AM; Zhang, Hao; Yan, Jiaqiang; Cliffe, Matthew J; McGuire, Michael A; Do, Seung-Hwan; Gao, Shang; Stone, Matthew B; Dahlbom, David; Barros, Kipton; 
+  - Authors: Paddison, Joseph AM; Zhang, Hao; Yan, Jiaqiang; Cliffe, Matthew J; McGuire, Michael A; Do, Seung-Hwan; Gao, Shang; Stone, Matthew B; Dahlbom, David; Barros, Kipton; Batista, Cristian D; Christianson, Andrew D;
     Title: 'Cubic double perovskites host noncoplanar spin textures'
     Publication: 'npj Quantum Materials'
     Volume: '9'
@@ -139,7 +166,7 @@ citations:
     Year: '2024'
     Publisher: Nature Publishing Group UK London
     URL:
-  - Authors: Gao, Shang; Lin, Ling-Fang; Laurell, Pontus; Chen, Qiang; Huang, Qing; Cruz, Clarina dela; Vemuru, Krishnamurthy V; Lumsden, Mark D; Nagler, Stephen E; Alvarez, Gonzalo; 
+  - Authors: Gao, Shang; Lin, Ling-Fang; Laurell, Pontus; Chen, Qiang; Huang, Qing; Cruz, Clarina dela; Vemuru, Krishnamurthy V; Lumsden, Mark D; Nagler, Stephen E; Alvarez, Gonzalo; Dagotto, Elbio; Zhou, Haidong; Christianson, Andrew D; Stone, Matthew B;
     Title: 'Spinon continuum in the Heisenberg quantum chain compound Sr<sub>2</sub>V<sub>3</sub>O<sub>9</sub>'
     Publication: 'Phys. Rev. B'
     Volume: '109'
@@ -148,7 +175,7 @@ citations:
     Year: '2024'
     Publisher: American Physical Society
     URL:
-  - Authors: Akatsuka, Shun; Esser, Sebastian; Okumura, Shun; Yambe, Ryota; Yamada, Rinsuke; Hirschmann, Moritz M; Aji, Seno; White, Jonathan S; Gao, Shang; Onuki, Yoshichika; 
+  - Authors: Akatsuka, Shun; Esser, Sebastian; Okumura, Shun; Yambe, Ryota; Yamada, Rinsuke; Hirschmann, Moritz M; Aji, Seno; White, Jonathan S; Gao, Shang; Onuki, Yoshichika; Arima, Taka-hisa; Nakajima, Taro; Hirschberger, Max;
     Title: 'Non-coplanar helimagnetism in the layered van-der-Waals metal DyTe<sub>3</sub>'
     Publication: 'Nature Communications'
     Volume: '15'
@@ -175,7 +202,7 @@ citations:
     Year: '2024'
     Publisher: IOP Publishing
     URL:
-  - Authors: Wang, Han; Kaneko, Ryoma; Ueda, Kentaro; Zhang, Yang; Baron, Alfred QR; Ishikawa, Daisuke; Wehinger, Björn; Dagotto, Elbio; Tokura, Yoshinori; Arima, Taka-hisa; 
+  - Authors: Wang, Han; Kaneko, Ryoma; Ueda, Kentaro; Zhang, Yang; Baron, Alfred QR; Ishikawa, Daisuke; Wehinger, Björn; Dagotto, Elbio; Tokura, Yoshinori; Arima, Taka-hisa; Gao, Shang;
     Title: 'Phonon excitations in Eu<sub>2</sub>Ir<sub>2</sub>O<sub>7</sub> probed by inelastic x-ray scattering'
     Publication: 'J. Phys.: Condensed Matt.'
     Volume: '36'
@@ -193,7 +220,7 @@ citations:
     Year: '2024'
     Publisher: American Chemical Society
     URL:
-  - Authors: Xu, Wei; Lin, Gaoting; Shu, Mingfang; Jiao, Jinlong; Zhu, Jinfeng; Ren, Qingyong; Le, Manh Duc; Luo, Xuan; Sun, Yuping; Liu, Yi; 
+  - Authors: Xu, Wei; Lin, Gaoting; Shu, Mingfang; Jiao, Jinlong; Zhu, Jinfeng; Ren, Qingyong; Le, Manh Duc; Luo, Xuan; Sun, Yuping; Liu, Yi; Qu, Zhe; Zhou, Haidong; Gao, Shang; Ma, Jie;
     Title: 'Spin Dynamics and Phonons in Chromites CoCr<sub>2</sub>O<sub>4</sub> and MnCr<sub>2</sub>O<sub>4</sub>'
     Publication: 'Chinese Physics Letters'
     Volume: '41'
