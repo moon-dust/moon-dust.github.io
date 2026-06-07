@@ -1,4 +1,4 @@
-{% assign pub_list = site.data.citations_selected %}
+{% assign pub_list = page.citations_selected | default: site.data.citations_selected %}
 {% assign style = include.style | downcase | default: "apa" %}
 {% assign include_link = include.link %}
 
@@ -73,14 +73,7 @@
   {% endif %}
   
   {% if include.author %}
-    {% capture citation_Authors %}
-      {% for element in citation %}
-        {% if forloop.first %}
-          {{ element[1] }}
-        {% endif %}
-      {% endfor %}
-    {% endcapture %}
-    {% assign author_list = citation_Authors | downcase %}
+    {% assign author_list = citation.Authors | downcase %}
     {% assign is_author = false %}
     {% for author in authors %}
       {% if author_list contains author %}
@@ -92,13 +85,7 @@
   {% endif %}
 
   {% if is_venue and is_year and is_search and is_author and is_venue_search %}
-    {% capture citation_Authors %}
-      {% for element in citation %}
-        {% if forloop.first %}
-          {{ element[1] }}
-        {% endif %}
-      {% endfor %}
-    {% endcapture %}
+    {% assign citation_Authors = citation.Authors %}
   
     {% assign size = citation_Authors | size | minus: 2 %}
     {% assign pub_authors = citation_Authors | slice: 0, size | split: ";" %}
