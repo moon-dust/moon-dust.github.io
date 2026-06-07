@@ -87,20 +87,25 @@
   {% if is_venue and is_year and is_search and is_author and is_venue_search %}
     {% assign citation_Authors = citation.Authors %}
   
-    {% assign size = citation_Authors | size | minus: 2 %}
-    {% assign pub_authors = citation_Authors | slice: 0, size | split: ";" %}
+    {% assign pub_authors = citation_Authors | split: ";" %}
 
 
     {% assign last_names = "" %}
     {% assign first_names = "" %}
     {% for name in pub_authors %}
-      {% assign first_last = name | split: "," %}
-      {% assign first_names = first_names | append: first_last[1] %}
-      {% assign last_names = last_names | append: first_last[0] %}
-      {% if forloop.last == false %}
+      {% assign clean_name = name | strip %}
+      {% if clean_name == "" %}
+        {% continue %}
+      {% endif %}
+      {% assign first_last = clean_name | split: "," %}
+      {% if last_names != "" %}
         {% assign last_names = last_names | append: ";" %}
         {% assign first_names = first_names | append: ";" %}
       {% endif %}
+      {% assign first_name = first_last[1] | strip %}
+      {% assign last_name = first_last[0] | strip %}
+      {% assign first_names = first_names | append: first_name %}
+      {% assign last_names = last_names | append: last_name %}
     {% endfor %}
     {% assign first_names = first_names | split: ";" %}
     {% assign last_names = last_names | split: ";" %}
