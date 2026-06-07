@@ -176,6 +176,7 @@ We are recruiting!
 <ul>
   <li><b>Shanta Batool Hussain</b>, PhD, 2023 - 2026</li>
   <li><b>Han Wang</b>, Bachelor, 2023 - 2025</li>
+  <li><b>Fengyi Song</b>, summer visiting student, 2023 & 2024</li>
   <li><b>Shuangkui Guang</b>, PhD, 2023 - 2024</li>
 
 </ul>
