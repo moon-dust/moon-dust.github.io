@@ -10,7 +10,7 @@ citations_selected:
     Number: ''
     Pages: ''
     Year: '2026'
-    Publisher: 
+    Publisher:
     URL: https://arxiv.org/abs/2605.12042
   - Authors: Mo, Jiajun; Chinellato, Leandro M; Williams, Fletcher; Kikkawa, Akiko; Paddison, Joseph AM; Frontzek, Matthias D; Sala, Gabriele; Pasco, Chris; Barros, Kipton; Nakajima, Taro; Arima, Taka-hisa; Taguchi, Yasujiro; Tokura, Yoshinori; Stone, Matthew B; Christianson, Andrew D; Batista, Cristian D; Gao*, Shang;
     Title: 'Skyrmion and Meron Crystals in Intermetallic Gd<sub>3</sub>Ru<sub>4</sub>Al<sub>12</sub>: Microscopic Model Insights into Chiral Phases'
@@ -19,7 +19,7 @@ citations_selected:
     Number: ''
     Pages: ''
     Year: '2025'
-    Publisher: 
+    Publisher:
     URL: https://arxiv.org/abs/2512.24071
   - Authors: Gao*, Shang; 
     Title: 'Dynamic spin-lattice coupling and statistical interpretation for the molecularlike excitations in frustrated pyrochlores'
@@ -85,15 +85,15 @@ citations_selected:
     Publisher: Nature Research
     URL: https://doi.org/10.1038/nphys3914
 citations:
-  - Authors: Gao*, Shang; Pasco, Chris; Omar, Otkur; Zhang, Qiang; Pajerowski, Daniel M; Ye, Feng; Frontzek, Matthias; May, Andrew F; Stone*, Matthew B; Christianson*, Andrew D; 
-    Title: 'Codimension-two spiral spin liquid in the effective honeycomb-lattice compound Cs<sub>3</sub>Fe<sub>2</sub>Cl<sub>9</sub>'
-    Publication: 'Physical Review B'
-    Volume: '113'
-    Number: '14'
-    Pages: 'L140401'
+  - Authors: Xiao, Yuan; Mo, Jiajun; Jiang, Zhenmeng; Leng, Haoyang; Omar, Otkur; Li, Yanjun; Song, Fengyi; Ying*, Jianjun; Gao*, Shang;
+    Title: 'Elementary magnons and interacting multi-magnon quasiparticles in the effective spin-1/2 kagome-staircase magnet Co<sub>3</sub>V<sub>2</sub>O<sub>8</sub>'
+    Publication: 'arXiv preprint arXiv:2608.08587'
+    Volume: ''
+    Number: ''
+    Pages: ''
     Year: '2026'
-    Publisher: American Physical Society
-    URL:
+    Publisher:
+    URL: https://arxiv.org/abs/2608.08587
   - Authors: Mo, Jiajun; Omar, Otkur; Guang, Shuangkui; Iida, Kazuki; Kamazawa, Kazuya; Orlandi, Fabio; Yang, Wenyun; Ma, Xiaobai; Zheng, Xiquan; Peng, Yingying; Xiao, Yuan; Zhang, Shunhong; Zaharko, Oksana; Sun*, Xuefeng; Gao*, Shang;
     Title: 'Emergent Vortex Ordering in a Multiflavor Pyrochlore-Lattice Compound GeCo<sub>2</sub>O<sub>4</sub>'
     Publication: 'arXiv preprint arXiv:2605.12042'
@@ -101,7 +101,34 @@ citations:
     Number: ''
     Pages: ''
     Year: '2026'
-    Publisher: 
+    Publisher:
+    URL: https://arxiv.org/abs/2605.12042
+  - Authors: Mo, Jiajun; Chinellato, Leandro M; Williams, Fletcher; Kikkawa, Akiko; Paddison, Joseph AM; Frontzek, Matthias D; Sala, Gabriele; Pasco, Chris; Barros, Kipton; Nakajima, Taro; Arima, Taka-hisa; Taguchi, Yasujiro; Tokura, Yoshinori; Stone, Matthew B; Christianson, Andrew D; Batista, Cristian D; Gao*, Shang;
+    Title: 'Skyrmion and Meron Crystals in Intermetallic Gd<sub>3</sub>Ru<sub>4</sub>Al<sub>12</sub>: Microscopic Model Insights into Chiral Phases'
+    Publication: 'arXiv preprint arXiv:2512.24071'
+    Volume: ''
+    Number: ''
+    Pages: ''
+    Year: '2025'
+    Publisher:
+    URL: https://arxiv.org/abs/2512.24071
+  - Authors: Yu, Bocheng; Omar, Otkur; Lv, Songtai; Ma, Long; Xia, Zhengcai; Meng, Jing; Yang, Yanran; Ma, Jie; Xu, Yang; Zhan, Qingfeng; Pomjakushin, Vladimir Yu; Zou, Haiyuan; Gao*, Shang; Shiroka*, Toni; Shang*, Tian;
+    Title: 'Strongly frustrated two-dimensional magnetism in a three-dimensional hexagonal perovskite'
+    Publication: 'Physical Review B'
+    Volume: ''
+    Number: ''
+    Pages: ''
+    Year: '2026'
+    Publisher: American Physical Society
+    URL: https://journals.aps.org/prb/abstract/10.1103/f6fj-gzjg
+  - Authors: Gao*, Shang; Pasco, Chris; Omar, Otkur; Zhang, Qiang; Pajerowski, Daniel M; Ye, Feng; Frontzek, Matthias; May, Andrew F; Stone*, Matthew B; Christianson*, Andrew D;
+    Title: 'Codimension-two spiral spin liquid in the effective honeycomb-lattice compound Cs<sub>3</sub>Fe<sub>2</sub>Cl<sub>9</sub>'
+    Publication: 'Physical Review B'
+    Volume: '113'
+    Number: '14'
+    Pages: 'L140401'
+    Year: '2026'
+    Publisher: American Physical Society
     URL:
   - Authors: Karube*, Kosuke; Gao, Shang; Khanh, Nguyen Duy; Kikkawa, Akiko; Nakao, Hironori; Sagayama, Hajime; Hirschberger, Max; Nakajima, Taro; Arima, Taka-hisa; Mochizuki, Masahito; Tokura, Yoshinori; Taguchi*, Yasujiro;
     Title: 'Field-induced evolution of the ferrimagnetic ground state and possible thermally induced spin chirality in Tb<sub>3</sub>Ru<sub>4</sub>Al<sub>12</sub>'
@@ -129,15 +156,6 @@ citations:
     Pages: '5212'
     Year: '2025'
     Publisher: Nature Publishing Group UK London
-    URL:
-  - Authors: Mo, Jiajun; Chinellato, Leandro M; Williams, Fletcher; Kikkawa, Akiko; Paddison, Joseph AM; Frontzek, Matthias D; Sala, Gabriele; Pasco, Chris; Barros, Kipton; Nakajima, Taro; Arima, Taka-hisa; Taguchi, Yasujiro; Tokura, Yoshinori; Stone, Matthew B; Christianson, Andrew D; Batista, Cristian D; Gao*, Shang;
-    Title: 'Skyrmion and Meron Crystals in Intermetallic Gd<sub>3</sub>Ru<sub>4</sub>Al<sub>12</sub>: Microscopic Model Insights into Chiral Phases'
-    Publication: 'arXiv preprint arXiv:2512.24071'
-    Volume: ''
-    Number: ''
-    Pages: ''
-    Year: '2025'
-    Publisher: 
     URL:
   - Authors: Yamada*, Rinsuke; Birch, Max T; Baral, Priya R; Okumura, Shun; Nakano, Ryota; Gao, Shang; Ezawa, Motohiko; Nomoto, Takuya; Masell, Jan; Ishihara, Yuki; Kolincio, Kamil K; Belopolski, Ilya; Sagayama, Hajime; Nakao, Hironori; Ohishi, Kazuki; Ohhara, Takashi; Kiyanagi, Ryoji; Nakajima, Taro; Tokura, Yoshinori; Arima, Taka-hisa; Motome, Yukitoshi; Hirschmann*, Moritz M; Hirschberger*, Max;
     Title: 'A metallic p-wave magnet with commensurate spin helix'
