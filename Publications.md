@@ -23,7 +23,7 @@ citations_selected:
     URL: https://arxiv.org/abs/2512.24071
   - Authors: Gao*, Shang; 
     Title: 'Dynamic spin-lattice coupling and statistical interpretation for the molecularlike excitations in frustrated pyrochlores'
-    Publication: 'Phy. Rev. B'
+    Publication: 'Phys. Rev. B'
     Volume: '110'
     Number: '21'
     Pages: '214420'
@@ -114,7 +114,7 @@ citations:
     URL: https://arxiv.org/abs/2512.24071
   - Authors: Yu, Bocheng; Omar, Otkur; Lv, Songtai; Ma, Long; Xia, Zhengcai; Meng, Jing; Yang, Yanran; Ma, Jie; Xu, Yang; Zhan, Qingfeng; Pomjakushin, Vladimir Yu; Zou, Haiyuan; Gao*, Shang; Shiroka*, Toni; Shang*, Tian;
     Title: 'Strongly frustrated two-dimensional magnetism in a three-dimensional hexagonal perovskite'
-    Publication: 'Physical Review B'
+    Publication: 'Phys. Rev. B'
     Volume: ''
     Number: ''
     Pages: ''
@@ -123,7 +123,7 @@ citations:
     URL: https://journals.aps.org/prb/abstract/10.1103/f6fj-gzjg
   - Authors: Gao*, Shang; Pasco, Chris; Omar, Otkur; Zhang, Qiang; Pajerowski, Daniel M; Ye, Feng; Frontzek, Matthias; May, Andrew F; Stone*, Matthew B; Christianson*, Andrew D;
     Title: 'Codimension-two spiral spin liquid in the effective honeycomb-lattice compound Cs<sub>3</sub>Fe<sub>2</sub>Cl<sub>9</sub>'
-    Publication: 'Physical Review B'
+    Publication: 'Phys. Rev. B'
     Volume: '113'
     Number: '14'
     Pages: 'L140401'
@@ -132,7 +132,7 @@ citations:
     URL:
   - Authors: Karube*, Kosuke; Gao, Shang; Khanh, Nguyen Duy; Kikkawa, Akiko; Nakao, Hironori; Sagayama, Hajime; Hirschberger, Max; Nakajima, Taro; Arima, Taka-hisa; Mochizuki, Masahito; Tokura, Yoshinori; Taguchi*, Yasujiro;
     Title: 'Field-induced evolution of the ferrimagnetic ground state and possible thermally induced spin chirality in Tb<sub>3</sub>Ru<sub>4</sub>Al<sub>12</sub>'
-    Publication: 'Physical Review B'
+    Publication: 'Phys. Rev. B'
     Volume: '113'
     Number: '13'
     Pages: '134417'
@@ -141,7 +141,7 @@ citations:
     URL:
   - Authors: Omar, Otkur; Zhang, Yang; Zhang, Qiang; Tian, Wei; Dagotto, Elbio; Chen, Gang; Arima, Taka-hisa; Stone, Matthew B; Christianson, Andrew D; Hirai*, Daigorou; Gao*, Shang;
     Title: 'Dipolar and quadrupolar correlations in the 5d<sup>2</sup> Re-based double perovskites Ba<sub>2</sub>YReO<sub>6</sub> and Ba<sub>2</sub>ScReO<sub>6</sub>'
-    Publication: 'Physical Review B'
+    Publication: 'Phys. Rev. B'
     Volume: '112'
     Number: '7'
     Pages: '075103'
@@ -150,7 +150,7 @@ citations:
     URL:
   - Authors: Liu, Ruixian; Stone, Matthew B; Gao, Shang; Nakamura, Mitsutaka; Kamazawa, Kazuya; Krajewska, Aleksandra; Walker, Helen C; Cheng, Peng; Yu, Rong; Si, Qimiao; Dai*, Pengcheng; Lu*, Xingye;
     Title: 'Spin correlations in the nematic quantum disordered state of FeSe'
-    Publication: 'Nature Communications'
+    Publication: 'Nat. Commun.'
     Volume: '16'
     Number: '1'
     Pages: '5212'
@@ -168,7 +168,7 @@ citations:
     URL:
   - Authors: Arachchige, H Suriya; DeBeer-Schmitt, Lisa M; Kish, Lazar L; Rai, Binod K; May, Andrew F; Parker, David S; Pokharel, Ganesh; Tian, Wei; Stone, Matthew B; Frontzek, Matthias; Mandrus, David G; Bleuel, Markus; Islam, Zahirul; Fabbris, Gilberto; Li, Huibo; Gao, Shang; Miao, Hu; Thomas, Samuel M; Rosa, Priscila F S; Thompson, Joe D; Lin, Shi-Zeng; Christianson*, Andrew D;
     Title: 'Nanometric modulations of the magnetic structure of the element Nd'
-    Publication: 'Materials Today Quantum'
+    Publication: 'Mater. Today Quantum'
     Volume: '4'
     Number: ''
     Pages: '100016'
@@ -177,7 +177,7 @@ citations:
     URL:
   - Authors: Paddison*, Joseph AM; Zhang, Hao; Yan, Jiaqiang; Cliffe, Matthew J; McGuire, Michael A; Do, Seung-Hwan; Gao, Shang; Stone, Matthew B; Dahlbom, David; Barros, Kipton; Batista, Cristian D; Christianson*, Andrew D;
     Title: 'Cubic double perovskites host noncoplanar spin textures'
-    Publication: 'npj Quantum Materials'
+    Publication: 'npj Quantum Mater.'
     Volume: '9'
     Number: '1'
     Pages: '48'
@@ -195,7 +195,7 @@ citations:
     URL:
   - Authors: Akatsuka, Shun; Esser*, Sebastian; Okumura, Shun; Yambe, Ryota; Yamada, Rinsuke; Hirschmann, Moritz M; Aji, Seno; White, Jonathan S; Gao, Shang; Onuki, Yoshichika; Arima, Taka-hisa; Nakajima, Taro; Hirschberger*, Max;
     Title: 'Non-coplanar helimagnetism in the layered van-der-Waals metal DyTe<sub>3</sub>'
-    Publication: 'Nature Communications'
+    Publication: 'Nat. Commun.'
     Volume: '15'
     Number: '1'
     Pages: '4291'
@@ -204,7 +204,7 @@ citations:
     URL:
   - Authors: Gao*, Shang; 
     Title: 'Dynamic spin-lattice coupling and statistical interpretation for the molecularlike excitations in frustrated pyrochlores'
-    Publication: 'Phy. Rev. B'
+    Publication: 'Phys. Rev. B'
     Volume: '110'
     Number: '21'
     Pages: '214420'
@@ -213,7 +213,7 @@ citations:
     URL:
   - Authors: Shang*, Tian; Xu, Yang; Gao, Shang; Yang, Run; Shiroka, Toni; Shi, Ming; 
     Title: 'Experimental progress in Eu(Al,Ga)<sub>4</sub> topological antiferromagnets'
-    Publication: 'J. Phys.: Condensed Matt.'
+    Publication: 'J. Phys.: Condens. Matter'
     Volume: '37'
     Number: '1'
     Pages: '013002'
@@ -222,7 +222,7 @@ citations:
     URL:
   - Authors: Wang, Han; Kaneko, Ryoma; Ueda*, Kentaro; Zhang, Yang; Baron, Alfred QR; Ishikawa, Daisuke; Wehinger, Björn; Dagotto, Elbio; Tokura, Yoshinori; Arima, Taka-hisa; Gao*, Shang;
     Title: 'Phonon excitations in Eu<sub>2</sub>Ir<sub>2</sub>O<sub>7</sub> probed by inelastic x-ray scattering'
-    Publication: 'J. Phys.: Condensed Matt.'
+    Publication: 'J. Phys.: Condens. Matter'
     Volume: '36'
     Number: '42'
     Pages: '425705'
@@ -231,7 +231,7 @@ citations:
     URL:
   - Authors: Yang, Tsung-Han; Gao, Shang; Zhang, Yuanpeng; Olds, Daniel; Meier, William R; Stone, Matthew B; Sales, Brian C; Christianson*, Andrew D; Zhang*, Qiang; 
     Title: 'Simultaneous development of antiferromagnetism and local symmetry breaking in a kagome magnet (Co<sub>0.45</sub>Fe<sub>0.55</sub>)Sn'
-    Publication: 'Journal of the American Chemical Society'
+    Publication: 'J. Am. Chem. Soc.'
     Volume: '146'
     Number: '50'
     Pages: '34374-34382'
@@ -240,7 +240,7 @@ citations:
     URL:
   - Authors: Xu, Wei; Lin, Gaoting; Shu, Mingfang; Jiao, Jinlong; Zhu, Jinfeng; Ren, Qingyong; Le, Manh Duc; Luo, Xuan; Sun, Yuping; Liu, Yi; Qu, Zhe; Zhou, Haidong; Gao, Shang; Ma*, Jie;
     Title: 'Spin Dynamics and Phonons in Chromites CoCr<sub>2</sub>O<sub>4</sub> and MnCr<sub>2</sub>O<sub>4</sub>'
-    Publication: 'Chinese Physics Letters'
+    Publication: 'Chin. Phys. Lett.'
     Volume: '41'
     Number: '11'
     Pages: '117503'
@@ -312,7 +312,7 @@ citations:
     URL: https://link.aps.org/doi/10.1103/PhysRevB.104.L140408
   - Authors: 'Kolincio*, Kamil K; Hirschberger, Max; Masell, Jan; Gao, Shang; Kikkawa, Akiko; Taguchi, Yasujiro; Arima, Taka-hisa; Nagaosa, Naoto; Tokura, Yoshinori; '
     Title: Large Hall and Nernst responses from thermally induced spin chirality in a spin-trimer ferromagnet
-    Publication: Proc. Natl. Acad. Sci.
+    Publication: Proc. Natl. Acad. Sci. U.S.A.
     Volume: '118'
     Number: '33'
     Pages: '2023588118'
@@ -411,7 +411,7 @@ citations:
     URL:
   - Authors: Khanh*, Nguyen Duy; Nakajima, Taro; Yu, Xiuzhen; Gao, Shang; Shibata, Kiyou; Hirschberger, Max; Yamasaki, Yuichi; Sagayama, Hajime; Nakao, Hironori; Peng, Licong; Nakajima, Kiyomi; Takagi, Rina; Arima, Taka-hisa; Tokura, Yoshinori; Seki*, Shinichiro;
     Title: Nanometric square skyrmion lattice in a centrosymmetric tetragonal magnet
-    Publication: Nat. Nanotech.
+    Publication: Nat. Nanotechnol.
     Volume: '15'
     Number:
     Pages: 444-449
