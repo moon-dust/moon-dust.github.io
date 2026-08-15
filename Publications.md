@@ -115,9 +115,9 @@ citations:
   - Authors: Yu, Bocheng; Omar, Otkur; Lv, Songtai; Ma, Long; Xia, Zhengcai; Meng, Jing; Yang, Yanran; Ma, Jie; Xu, Yang; Zhan, Qingfeng; Pomjakushin, Vladimir Yu; Zou, Haiyuan; Gao*, Shang; Shiroka*, Toni; Shang*, Tian;
     Title: 'Strongly frustrated two-dimensional magnetism in a three-dimensional hexagonal perovskite'
     Publication: 'Phys. Rev. B'
-    Volume: ''
-    Number: ''
-    Pages: ''
+    Volume: '114'
+    Number: '7'
+    Pages: '074402'
     Year: '2026'
     Publisher: American Physical Society
     URL: https://journals.aps.org/prb/abstract/10.1103/f6fj-gzjg
