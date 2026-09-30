@@ -3,6 +3,9 @@ layout: page
 title: Teaching
 permalink: /teach/
 ---
+**2026 Autumn**
+> *Computational Physics A (022012)*
+
 **2026 Spring**  
 > Experimental Methods in Solid State Physics (PHYS6203P01)
 
