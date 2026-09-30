@@ -30,4 +30,15 @@ permalink: /etc/
         <span class="etc-card__meta">Requires intranet</span>
       </span>
   </a>
+  <a class="etc-card etc-card--inventory" href="http://192.168.1.8:8090">
+    <span class="etc-card__icon" aria-hidden="true">
+      <svg viewBox="0 0 64 64" role="img">
+        <path class="etc-inventory" d="M10 20 L32 10 L54 20 L32 30 Z M10 20 V44 L32 54 L54 44 V20 M32 30 V54 M21 15 L43 25 V34 M18 37 L24 40" />
+      </svg>
+    </span>
+      <span class="etc-card__body">
+        <span class="etc-card__title">Laboratory inventory</span>
+        <span class="etc-card__meta">Requires intranet</span>
+      </span>
+  </a>
 </section>

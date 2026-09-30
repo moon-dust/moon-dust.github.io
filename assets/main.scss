@@ -59,8 +59,14 @@
   border: 1px solid #b9ddca;
 }
 
+.etc-card--inventory .etc-card__icon {
+  background: #edf3fc;
+  border: 1px solid #c4d5ee;
+}
+
 .etc-wave,
-.etc-pulse {
+.etc-pulse,
+.etc-inventory {
   fill: none;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -81,6 +87,11 @@
 
 .etc-pulse {
   stroke: #0f705c;
+}
+
+.etc-inventory {
+  stroke: #365f9c;
+  stroke-width: 3;
 }
 
 .etc-card__body {
