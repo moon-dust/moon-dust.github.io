@@ -73,7 +73,7 @@ We are recruiting!
       <img src="/assets/images/bio_JJMo.jpg">
     </div>
     <div class="text">
-      <p> <b>JiaJun Mo</b> <br> <i> PhD (1st yr) </i> <br> <br>
+      <p> <b>JiaJun Mo</b> <br> <i> PhD (2nd yr) </i> <br> <br>
         Email: mojj <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>  
@@ -83,7 +83,7 @@ We are recruiting!
       <img src="/assets/images/bio_Otkur.jpeg">
     </div>
     <div class="text">
-      <p> <b>Omar Otkur</b> <br> <i> PhD (1st yr) </i> <br> <br>
+      <p> <b>Omar Otkur</b> <br> <i> PhD (2nd yr) </i> <br> <br>
         Email: otdi <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
@@ -93,7 +93,7 @@ We are recruiting!
       <img src="/assets/images/bio_ZMJiang.jpg">
     </div>
     <div class="text">
-      <p> <b>ZhenMeng Jiang</b> <br> <i> Master (2nd yr) </i> <br> <br>
+      <p> <b>ZhenMeng Jiang</b> <br> <i> PhD (1st yr) </i> <br> <br>
         Email: zhenmengjiang <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
@@ -103,7 +103,7 @@ We are recruiting!
       <img src="/assets/images/bio_YXiao.jpg">
     </div>
     <div class="text">
-      <p> <b>Yuan Xiao</b> <br> <i> Master (1st yr) </i> <br> <br>
+      <p> <b>Yuan Xiao</b> <br> <i> PhD (1st yr) </i> <br> <br>
         Email: ustcxiaoyuan <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>  
@@ -113,10 +113,20 @@ We are recruiting!
       <img src="/assets/images/bio_KYJiang.jpg">
     </div>
     <div class="text">
-      <p> <b>KaiYu Jiang</b> <br> <i> Master (1st yr) </i> <br> <br>
+      <p> <b>KaiYu Jiang</b> <br> <i> Master (2nd yr) </i> <br> <br>
         Email: jky2021 <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>  
+
+  <div class="flex-item">
+    <div class="image">
+      <img src="/assets/images/bio_HYLeng.png">
+    </div>
+    <div class="text">
+      <p> <b>Haoyang Leng</b> <br> <i> Master (1st yr) </i> <br> <br>
+        Email: lenghaoyang <i>'at'</i> mail.ustc.edu.cn</p>
+    </div>
+  </div>
 
   <div class="flex-item">
     <div class="image">
@@ -130,21 +140,21 @@ We are recruiting!
 
   <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_HYLeng.png">
+      <img src="/assets/images/bio_YFJiang.jpg">
     </div>
     <div class="text">
-      <p> <b>Haoyang Leng</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
-        Email: lenghaoyang <i>'at'</i> mail.ustc.edu.cn</p>
+      <p> <b>Yifan Jiang</b> <br> <i> Bachelor (4th yr) </i> <br> <br>
+        Email: jiang_yifan <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
 
   <div class="flex-item">
     <div class="image">
-      <img src="/assets/images/bio_YFJiang.jpg">
+      <img src="/assets/images/bio_ZHWang.jpg" alt="Zihang Wang">
     </div>
     <div class="text">
-      <p> <b>Yifan Jiang</b> <br> <i> Bachelor (3rd yr) </i> <br> <br>
-        Email: jiang_yifan <i>'at'</i> mail.ustc.edu.cn</p>
+      <p> <b>Zihang Wang</b> <br> <i> Bachelor (2nd yr) </i> <br> <br>
+        Email: utsc-zihang <i>'at'</i> mail.ustc.edu.cn</p>
     </div>
   </div>
 
