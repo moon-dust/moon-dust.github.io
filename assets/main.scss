@@ -64,33 +64,43 @@
   border: 1px solid #c4d5ee;
 }
 
-.etc-wave,
-.etc-pulse,
-.etc-inventory {
+.etc-card--tdts .etc-card__icon {
+  background: #fcf0f3;
+  border: 1px solid #e8c6cf;
+}
+
+.etc-calendar,
+.etc-server,
+.etc-inventory,
+.etc-controls {
   fill: none;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: 4;
 }
 
-.etc-wave--teal {
+.etc-calendar {
   stroke: #176f68;
+  stroke-width: 3;
 }
 
-.etc-wave--coral {
-  stroke: #de6548;
-}
-
-.etc-wave--blue {
-  stroke: #4e66bc;
-}
-
-.etc-pulse {
+.etc-server {
   stroke: #0f705c;
+  stroke-width: 3;
+}
+
+.etc-server__light {
+  fill: #0f705c;
+  stroke: none;
 }
 
 .etc-inventory {
   stroke: #365f9c;
+  stroke-width: 3;
+}
+
+.etc-controls {
+  stroke: #a7475b;
   stroke-width: 3;
 }
 

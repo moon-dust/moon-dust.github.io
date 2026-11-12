@@ -3,6 +3,15 @@ layout: page
 title: Publications
 permalink: /pub/
 citations_selected:
+  - Authors: Omar, Otkur; Frontzek, Matthias D.; Sala, Gabriele; Shen, Junying; Wang, Xinmin; Hu, Ze; Xu, Zhuang; Qin, Zecong; Tong, Xin; Paddison, Joe; Hirschberger, Max; Seki, Shinichiro; Matsuda, Masaaki; Stone, Matthew B.; Christianson, Andrew D.; Khanh*, Nguyen D.; Gao*, Shang;
+    Title: 'Compass Correlations in a Square-Lattice Magnet'
+    Publication: 'arXiv preprint arXiv:2610.32157'
+    Volume: ''
+    Number: ''
+    Pages: ''
+    Year: '2026'
+    Publisher:
+    URL: https://arxiv.org/abs/2610.32157
   - Authors: Mo, Jiajun; Omar, Otkur; Guang, Shuangkui; Iida, Kazuki; Kamazawa, Kazuya; Orlandi, Fabio; Yang, Wenyun; Ma, Xiaobai; Zheng, Xiquan; Peng, Yingying; Xiao, Yuan; Zhang, Shunhong; Zaharko, Oksana; Sun*, Xuefeng; Gao*, Shang;
     Title: 'Emergent Vortex Ordering in a Multiflavor Pyrochlore-Lattice Compound GeCo<sub>2</sub>O<sub>4</sub>'
     Publication: 'arXiv preprint arXiv:2605.12042'
@@ -85,6 +94,24 @@ citations_selected:
     Publisher: Nature Research
     URL: https://doi.org/10.1038/nphys3914
 citations:
+  - Authors: Cheng, Donger; Omar, Otkur; Wei, Wenbin; Embs, Jan Peter; Wang, Xiao; Su, Cheng; Cheng, Hui; Fu, Zhengdong; Liu, Xinzhi; Jin, Wentao; Hu, Ze; Luo, Wei; Wang, Liming; Hao, Jiazheng; Shen, Feiran; He, Lunhua; Gao*, Shang; Feng*, Erxi;
+    Title: 'Stripe antiferromagnetic order and spin dynamics in the Shastry-Sutherland Ising compound Er<sub>2</sub>Be<sub>2</sub>GeO<sub>7</sub>'
+    Publication: 'arXiv preprint arXiv:2610.36799'
+    Volume: ''
+    Number: ''
+    Pages: ''
+    Year: '2026'
+    Publisher:
+    URL: https://arxiv.org/abs/2610.36799
+  - Authors: Omar, Otkur; Frontzek, Matthias D.; Sala, Gabriele; Shen, Junying; Wang, Xinmin; Hu, Ze; Xu, Zhuang; Qin, Zecong; Tong, Xin; Paddison, Joe; Hirschberger, Max; Seki, Shinichiro; Matsuda, Masaaki; Stone, Matthew B.; Christianson, Andrew D.; Khanh*, Nguyen D.; Gao*, Shang;
+    Title: 'Compass Correlations in a Square-Lattice Magnet'
+    Publication: 'arXiv preprint arXiv:2610.32157'
+    Volume: ''
+    Number: ''
+    Pages: ''
+    Year: '2026'
+    Publisher:
+    URL: https://arxiv.org/abs/2610.32157
   - Authors: Xiao, Yuan; Mo, Jiajun; Jiang, Zhenmeng; Leng, Haoyang; Omar, Otkur; Li, Yanjun; Song, Fengyi; Ying*, Jianjun; Gao*, Shang;
     Title: 'Elementary magnons and interacting multi-magnon quasiparticles in the effective spin-1/2 kagome-staircase magnet Co<sub>3</sub>V<sub>2</sub>O<sub>8</sub>'
     Publication: 'arXiv preprint arXiv:2608.08587'
